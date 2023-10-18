@@ -1,0 +1,110 @@
+body { 
+        background-image: url('retro-background.jpeg');
+          background-size: cover;
+        background-position: center;
+        color: #fff;
+        font-family: 'Courier New', monospace;
+    }
+    
+    .retro-container {
+        text-align: center;
+        padding: 50px;
+    }
+    
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+        letter-spacing: 3px;
+        margin: 20px 0;
+    }
+    
+    img {
+        width: 80%;
+        max-width: 600px;
+        display: block;
+        margin: 0 auto;
+        border: 8px solid #ff8080;
+        border-radius: 10px;
+    }
+    
+    .description {
+        font-size: 18px;
+        line-height: 1.5;
+        margin-top: 20px;
+        background: rgba(0, 0, 0, 0.6);
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    background-color: #ffc0cb; /* A romantic color  
+ background-image: url('retro-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+}
+    
+    .retro-container {
+        text-align: center;
+        padding: 50px;
+    }
+    
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+        letter-spacing: 3px;
+        margin: 20px 0;
+    }
+    .red-text {
+        color: red;
+    }
+    
+    .yellow-text {
+        color: yellow;
+    }
+    
+    
+    img {
+        width: 80%;
+        max-width: 600px;
+        display: block;
+        margin: 0 auto;
+        border: 8px solid #ff8080;
+        border-radius: 10px;
+    }
+    
+    .description {
+        font-size: 18px;
+        line-height: 1.5;
+        margin-top: 20px;
+        background: rgba(0, 0, 0, 0.6);
+        padding: 20px;
+        border-radius: 10px;
+
+    }
+    .red-text {
+        color: red;
+    }
+    
+    .yellow-text {
+        color: yellow;
+    }
+    
+    .photo-container {
+        display: flex; /* Use a flexbox layout to arrange the photos in a row */
+        justify-content: space-between; /* Space between photos */
+    }
+    
+    .photo-container img {
+        max-width: 30%; /* Adjust the width to fit your design */
+        height: auto; /* Maintain the aspect ratio */
+    }
+    .red-text {
+        color: red !important;
+    }
+    
+    .yellow-text {
+        color: yellow !important;
+    }
+    
+}
